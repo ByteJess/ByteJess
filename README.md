@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm ByteJess!
 
-<!--
-**ByteJess/ByteJess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Based in France | 🖥️ Junior Web Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **web development enthusiast**, constantly learning and improving.  
+Currently exploring **Blender** while enhancing my coding skills.
+
+## 🛠️ Tech Stack
+
+🔥 **Frontend**  
+![HTML5]![Static Badge](https://img.shields.io/badge/HTML-5-orange)
+
+![CSS3]![Static Badge](https://img.shields.io/badge/CSS-3-blue)
+
+![JavaScript]![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+
+![react]![Static Badge](https://img.shields.io/badge/React-lightblue)
+
+🔥 **Backend**  
+![Node.js]![Static Badge](https://img.shields.io/badge/Node.js-green)
+
+[MONGODB]![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen)
+
+🔥 **Tools**  
+🛠️ Git & GitHub | 🖥️ VS Code | 🎨 Figma
+
+## 📫 Contact Me
+
+📧 Email: [bytejess.dev@gmail.com](bytejess.dev@gmail.com)
+
+---
+
+✨ _"Still learning and improving every day!"_ ✨
