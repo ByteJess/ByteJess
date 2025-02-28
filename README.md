@@ -9,21 +9,20 @@ Currently exploring **Blender** while enhancing my coding skills.
 
 ## 🛠️ Tech Stack
 
-🔥 **Frontend**  
+🔥 **Frontend**
+
 ![Static Badge](https://img.shields.io/badge/HTML-5-orange)
-
 ![Static Badge](https://img.shields.io/badge/CSS-3-blue)
-
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
-
 ![Static Badge](https://img.shields.io/badge/React-lightblue)
 
-🔥 **Backend**  
-![Static Badge](https://img.shields.io/badge/Node.js-green)
+🔥 **Backend**
 
+![Static Badge](https://img.shields.io/badge/Node.js-green)
 ![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen)
 
-🔥 **Tools**  
+🔥 **Tools**
+
 🛠️ Git & GitHub | 🖥️ VS Code | 🎨 Figma
 
 ## 📫 Contact Me
