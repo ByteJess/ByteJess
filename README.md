@@ -10,18 +10,18 @@ Currently exploring **Blender** while enhancing my coding skills.
 ## 🛠️ Tech Stack
 
 🔥 **Frontend**  
-![HTML5]![Static Badge](https://img.shields.io/badge/HTML-5-orange)
+![Static Badge](https://img.shields.io/badge/HTML-5-orange)
 
-![CSS3]![Static Badge](https://img.shields.io/badge/CSS-3-blue)
+![Static Badge](https://img.shields.io/badge/CSS-3-blue)
 
-![JavaScript]![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 
-![react]![Static Badge](https://img.shields.io/badge/React-lightblue)
+![Static Badge](https://img.shields.io/badge/React-lightblue)
 
 🔥 **Backend**  
-![Node.js]![Static Badge](https://img.shields.io/badge/Node.js-green)
+![Static Badge](https://img.shields.io/badge/Node.js-green)
 
-[MONGODB]![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen)
+![Static Badge](https://img.shields.io/badge/MongoDB-darkgreen)
 
 🔥 **Tools**  
 🛠️ Git & GitHub | 🖥️ VS Code | 🎨 Figma
